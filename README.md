@@ -129,7 +129,7 @@ We welcome contributions to improve the Number Guessing Game! If you'd like to c
 - Be respectful and collaborative in discussions.
 
 # License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](License.md) file for details.
 
 # Acknowledgments
 - Special thanks to [Freecodecamp](https://www.youtube.com/watch?v=8ext9G7xspg&t=443s) for amazing tutorial that helped me guide the development of this project!
