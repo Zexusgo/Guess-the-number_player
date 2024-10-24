@@ -125,3 +125,7 @@ We welcome contributions to improve the Number Guessing Game! If you'd like to c
 - Write meaningful commit messages.
 - Test your code before submitting.
 - Be respectful and collaborative in discussions.
+
+# License
+This project is licensed under the MIT License - see the [LICENSE](License.md) file for details.
+
