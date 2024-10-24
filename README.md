@@ -7,7 +7,9 @@
 In this game, you think of a secret number within a specified upper bound. The program will attempt to guess your number within five tries.
 
 1. Specify the Upper Bound:You set the maximum limit for the number.
+   
 2. User Feedback: After each guess, you'll provide input:
+
 - 'L' if the guessed number is lower than your secret number.
 - 'H' if the guessed number is higher than your secret number.
 - 'C' if the guessed number is correct.
