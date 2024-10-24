@@ -6,7 +6,7 @@
 
 In this game, you think of a secret number within a specified upper bound. The program will attempt to guess your number within five tries.
 
-1. Specify the Upper Bound:You set the maximum limit for the number.
+1. Specify the Upper Bound: You set the maximum limit for the number.
    
 2. User Feedback: After each guess, you'll provide input:
 
@@ -59,7 +59,7 @@ The program will dynamically adjust its guesses based on your feedback until it 
 
 - Choose a number within the range of 1 to the upper bound you specified. Keep this number secret!
 
-4.Provide Feedback:
+4. Provide Feedback:
 
 - The program will make a guess. After each guess, respond with one of the following:
 - 'L': If the guessed number is lower than your secret number.
@@ -129,7 +129,7 @@ We welcome contributions to improve the Number Guessing Game! If you'd like to c
 - Be respectful and collaborative in discussions.
 
 # License
-This project is licensed under the MIT License - see the [LICENSE](License.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 # Acknowledgments
-- Thanks [Freecodecamp](https://www.youtube.com/watch?v=8ext9G7xspg&t=443s) for amazing tutorial that helped me guide the development of this project!
+- Special thanks to [Freecodecamp](https://www.youtube.com/watch?v=8ext9G7xspg&t=443s) for amazing tutorial that helped me guide the development of this project!
