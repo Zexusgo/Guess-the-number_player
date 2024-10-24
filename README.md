@@ -17,7 +17,7 @@ The program will dynamically adjust its guesses based on your feedback until it 
 
 1. Prerequisites:
 
-- Ensure you have Python installed on your machine. You can download it from python.org.
+- Ensure you have Python installed on your machine. You can download it from [python.org](https://www.python.org/).
 
 2. Clone or Download the Repository:
 
@@ -129,3 +129,4 @@ We welcome contributions to improve the Number Guessing Game! If you'd like to c
 # License
 This project is licensed under the MIT License - see the [LICENSE](License.md) file for details.
 
+# Acknowledgments
